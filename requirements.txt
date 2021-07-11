@@ -1,1 +1,8 @@
-gunicorn==20.1.0
+gunicorn
+flask
+os
+pickle
+PIL
+fastbook
+fastai
+torchvision
