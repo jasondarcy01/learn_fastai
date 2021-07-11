@@ -1,7 +1,6 @@
 .DS_Store
+/colab_machine_learning
 /images
 .ipynb_checkpoints/
 /bears
 __pycache__
-/colab_machine_learning
-runtime.txt
