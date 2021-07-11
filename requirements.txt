@@ -3,7 +3,7 @@ flask==1.1.2
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.9.0+cpu 
 torchvision==0.10.0+cpu
-graphviz==2.40.1
+graphviz
 pillow==7.1.2
 fastbook==0.0.16
 fastai==2.4
