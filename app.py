@@ -25,6 +25,7 @@ def hello_world():
 		img = PILImage.create(os.path.join("uploads", file.filename))
 		#print(type(img))
 		pred,pred_idx,probs = learn_inf.predict(img)
+		os.remove(os.path.join("uploads", file.filename))
 		return render_template("index.html", message=f'Prediction: {pred}; Probability: {probs[pred_idx]:.04f}')
 	return render_template("index.html")
 
