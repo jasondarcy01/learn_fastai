@@ -1,7 +1,5 @@
 gunicorn
-flask
-os
-pickle
+flask=1.1.2
 PIL
 fastbook
 fastai
