@@ -2,3 +2,4 @@
 /images
 .ipynb_checkpoints/
 /bears
+__pycache__

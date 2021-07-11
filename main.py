@@ -28,7 +28,3 @@ def hello_world():
 		os.remove(os.path.join("uploads", file.filename))
 		return render_template("index.html", message=f'Prediction: {pred}; Probability: {probs[pred_idx]:.04f}')
 	return render_template("index.html")
-
-if __name__ == '__main__':
-    # app.run()
-    app.run(debug=True)
