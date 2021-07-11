@@ -1,6 +1,0 @@
-gunicorn
-flask==1.1.2
-pillow==7.1.2
-fastbook==0.0.16
-fastai==2.4
-http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
