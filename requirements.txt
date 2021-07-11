@@ -186,7 +186,6 @@ tornado==6.1==py38h9ed2024_0
 tqdm==4.61.2==pyhd3eb1b0_1
 traitlets==5.0.5==pyhd3eb1b0_0
 typer==0.3.2==pypi_0
-typing-extensions==3.10.0.0==hd3eb1b0_0
 typing_extensions==3.10.0.0==pyh06a4308_0
 urllib3==1.26.6==pyhd3eb1b0_1
 wasabi==0.8.2==pyhd3eb1b0_0
