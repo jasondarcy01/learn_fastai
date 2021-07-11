@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-_pytorch_select==0.1==cpu_0
 anyio==2.2.0==py38hecd8cb5_1
 appnope==0.1.2==py38hecd8cb5_1001
 argon2-cffi==20.1.0==py38h9ed2024_1
